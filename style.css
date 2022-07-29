@@ -1,0 +1,42 @@
+body{
+    background-color: #ffffff;
+    font-family: Helvetica;
+}
+
+#NavBar {
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(127, 235, 235);
+    text-indent: 35px;
+ }
+
+#AllS {
+    color: black;
+    font-size: 35px;
+    text-indent: 80%;
+}
+
+#Light {
+    color: white;
+}
+
+#Home {
+    color: black;
+}
+
+#Profile {
+    width: 35%;
+    position:absolute;
+    margin-top: 60px; 
+    left: 3%;
+}
+
+.h2 {
+    display: flex;
+    font-size: 25px;
+    color: gray;
+    justify-content: center;
+    position:absolute;
+    left: 45%;
+}
+
