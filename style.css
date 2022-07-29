@@ -40,3 +40,15 @@ body{
     left: 45%;
 }
 
+.Projects {
+    display: flex;
+    line-height: 900px;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.Tip {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
